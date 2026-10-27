@@ -1,30 +1,42 @@
-# Hi, I'm Zhao Binhan
+# Hi, I'm Binhan Zhao
 
-**Electrical and Electronic Engineering undergraduate at Nanyang Technological University, Singapore**
+I'm an Electrical and Electronic Engineering undergraduate at **Nanyang Technological University, Singapore**. I'm interested in robotics, applied AI and embedded systems, especially how sensor data and software come together in a working robot.
 
-I'm interested in **robotics, AI/ML and embedded systems**, especially systems that turn sensor data into useful decisions and physical interaction.
+## Featured project
 
-## Areas I'm exploring
+### [RGB-D point-cloud processing and registration](https://github.com/zhao05232006-blip/rgbd-point-cloud-registration)
 
-- **Robotics:** perception, human-robot interaction and sensor integration.
-- **AI/ML:** data preparation, model training, comparison and evaluation.
-- **Embedded systems:** microcontrollers, Linux-based development and hardware-software integration.
+A Python and Open3D project using public RGB-D recordings to turn depth images into 3D points and align two camera views. The experiments explore how preprocessing, starting pose and image coverage affect the result.
 
-## Project background
+- NumPy back-projection, point-cloud filtering and Open3D point-to-plane ICP.
+- Nine parameter configurations, failure-case analysis and checks on additional image pairs.
+- Code, sample data, 14 experiment records, five geometry tests and a short project report.
 
-- **Companion robot · ongoing:** Contributing to a year-long student project combining sensing, voice interaction and embedded control.
-- **Bathroom fall detection · ongoing:** Working on a project for older adults, spanning sensor hardware, data collection and the machine-learning workflow.
-- **Diabetes prediction:** Trained and compared predictive models using an Indonesian dataset, including a neural network implemented in PyTorch.
-- **Automatic volume control:** An EE3012 project exploring audio-level sensing and feedback-based gain adjustment.
+[One-page project note](https://github.com/zhao05232006-blip/rgbd-point-cloud-registration/blob/main/PROJECT_NOTE.pdf) · [Code and results](https://github.com/zhao05232006-blip/rgbd-point-cloud-registration)
+
+This is an offline perception study. Hardware and ROS integration are areas I would like to explore next.
+
+## Engineering background
+
+- **Embedded vision software internship:** Linux development and board-level testing on a HiSilicon camera platform.
+- **Control systems internship:** work with train-control signals, I/O mappings and subsystem checks.
+- **Diabetes prediction project:** training and comparing models on an Indonesian dataset, including a PyTorch neural network.
+
+## Ongoing student projects
+
+- **Companion robot:** a year-long NTU student project, started in July 2026, exploring sensing, voice interaction and embedded control.
+- **Bathroom fall detection:** a project for older adults, involving sensor hardware and a machine-learning workflow.
+
+The featured repository above contains the currently published code and experiment records. Materials for the other projects are not yet published here.
 
 ## Tools I work and learn with
 
-Python · C/C++ · PyTorch · MATLAB · Linux · Raspberry Pi · ESP32
+Python · C/C++ · PyTorch · NumPy · Open3D · Linux · MATLAB · Raspberry Pi · ESP32
+
+I'm developing my understanding of robot perception, sensor integration and reliable software testing.
 
 ## Learning
 
-[C++ Programming Foundations](https://github.com/zhao05232006-blip/complete-guide-to-cpp-programming-foundations-3846057) — my fork of the LinkedIn Learning course materials.
+[C++ Programming Foundations](https://github.com/zhao05232006-blip/complete-guide-to-cpp-programming-foundations-3846057) is my fork of the LinkedIn Learning course materials.
 
----
-
-I'm keen to learn from hands-on engineering work and contribute to robotics, applied AI and embedded systems projects.
+[LinkedIn](https://www.linkedin.com/in/binhan-zhao-61a1b2379)
