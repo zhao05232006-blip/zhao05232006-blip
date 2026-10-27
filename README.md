@@ -2,7 +2,9 @@
 
 I'm an Electrical and Electronic Engineering undergraduate at **Nanyang Technological University, Singapore**. I'm interested in robotics, applied AI and embedded systems, especially how sensor data and software come together in a working robot.
 
-## Featured project
+## Selected projects
+
+[Three-page project portfolio](https://github.com/zhao05232006-blip/zhao05232006-blip/blob/main/portfolio/Zhao_Binhan_Robotics_Embedded_Portfolio.pdf) · [All project write-ups](https://github.com/zhao05232006-blip/zhao05232006-blip/tree/main/portfolio)
 
 ### [RGB-D point-cloud processing and registration](https://github.com/zhao05232006-blip/rgbd-point-cloud-registration)
 
@@ -16,18 +18,26 @@ A Python and Open3D project using public RGB-D recordings to turn depth images i
 
 This is an offline perception study. Hardware and ROS integration are areas I would like to explore next.
 
+### [Automatic volume control for an audio amplifier](https://github.com/zhao05232006-blip/zhao05232006-blip/blob/main/portfolio/automatic-volume-control.md)
+
+An EE2073 laboratory project combining a voltage-controlled amplifier, power amplifier and VU meter. The write-up includes original gain-control measurements, the test setup and an OP275 power-supply troubleshooting case.
+
+### [Voice-interactive companion robot](https://github.com/zhao05232006-blip/zhao05232006-blip/blob/main/portfolio/companion-robot.md)
+
+An ongoing year-long student project, started in July 2026. The current note covers Python command routing, audio playback and a Raspberry Pi button interface, plus motion and belief-design progress. It distinguishes existing software from the remaining hardware integration work.
+
+
 ## Engineering background
 
 - **Embedded vision software internship:** Linux development and board-level testing on a HiSilicon camera platform.
 - **Control systems internship:** work with train-control signals, I/O mappings and subsystem checks.
 - **Diabetes prediction project:** training and comparing models on an Indonesian dataset, including a PyTorch neural network.
 
-## Ongoing student projects
+## Other ongoing work
 
-- **Companion robot:** a year-long NTU student project, started in July 2026, exploring sensing, voice interaction and embedded control.
 - **Bathroom fall detection:** a project for older adults, involving sensor hardware and a machine-learning workflow.
 
-The featured repository above contains the currently published code and experiment records. Materials for the other projects are not yet published here.
+The RGB-D repository contains published code and experiment records. The audio-amplifier and companion-robot notes provide supporting laboratory evidence and a software/design snapshot. Other project materials are not yet published here.
 
 ## Tools I work and learn with
 
